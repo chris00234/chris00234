@@ -44,5 +44,5 @@ Welcome to my GitHub profile! I'm a Software Developer passionate about Software
 
 ## 🌐 Find Me Around the Web
 
-- [LinkedIn](https://www.linkedin.com/in/daehyun-cho980113/)
+- [LinkedIn](https://www.linkedin.com/in/daehyuncho980113/)
 
