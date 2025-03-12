@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Software Developer passionate about Software Engineering, AI/ML Developing. I love creating, learning, and sharing knowledge.
 
-- 🔭 I’m currently working on: Medical Imagine Lab
+- 🔭 I’m currently working on: GIT America Inc
 - 🌱 I’m currently learning: Image Segmentation, Web development
 - 💬 Ask me about: Low Level Language to High Level Language
 - 📫 How to reach me: [wheogus98@gmail.com](mailto:wheogus98@gmail.com)
