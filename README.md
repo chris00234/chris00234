@@ -1,48 +1,85 @@
-# 👋 Hello there! I'm Chris Cho
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/chris-cho-square-ivory.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/chris-cho-square-black.svg">
+  <img align="right" src="./assets/chris-cho-square-black.svg" alt="Chris Cho — handwritten wordmark" width="130">
+</picture>
 
-Welcome to my GitHub profile! I'm a Software Developer passionate about Software Engineering, AI/ML Developing. I love creating, learning, and sharing knowledge.
+# Hi, I'm Chris.
 
-- 🔭 I’m currently working on: GIT America Inc
-- 🌱 I’m currently learning: Image Segmentation, Web development
-- 💬 Ask me about: Low Level Language to High Level Language
-- 📫 How to reach me: [wheogus98@gmail.com](mailto:wheogus98@gmail.com)
+Software engineer in Irvine, California.
 
-## 🚀 Skills and Tools
-### 📋 Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-### 🖥️ ML/DL
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-### 🎛️ Operating System
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-### ☁️ Hosting/SaaS
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-### 💾 Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-### 🛠️ Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+I work across backend systems, automation, and AI tooling. At **GIT America**, I build internal tools, work on deployment workflows, and tackle database and infrastructure problems.
 
-## 📈 GitHub Stats
+Outside work, I'm building **Brain**, a persistent memory system for AI agents, and studying computer science through **Georgia Tech's OMSCS** program.
 
-![Chris's Git Stats](https://github-readme-stats.vercel.app/api?username=chris00234&show_icons=true&theme=radical)
+[Website](https://www.chrischodev.com) · [Writing](https://blog.chrischodev.com) · [LinkedIn](https://www.linkedin.com/in/daehyuncho980113/) · [Email](mailto:wheogus98@gmail.com)
 
-## 🌐 Find Me Around the Web
+---
 
-- [LinkedIn](https://www.linkedin.com/in/daehyuncho980113/)
+### What I'm working on
 
+- **Memory for AI agents.** Building Brain so agents can retrieve context and carry useful knowledge across sessions.
+- **Developer tooling and automation.** Connecting tools, services, and workflows to reduce repetitive manual work.
+- **Self-hosted systems.** Running my own services and working on the monitoring, backups, and infrastructure behind them.
+
+### A little background
+
+I studied computer science at **UC Irvine**, where I also worked on cardiac image segmentation as a research assistant. These days, my focus is on the systems around AI: how agents use context, how tools fit together, and how to make them useful beyond a demo.
+
+### Tools I work with
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-3776AB?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-3776AB?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-3776AB?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-3776AB?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3776AB?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat-square)
+
+**Applications & Frameworks**
+
+![React](https://img.shields.io/badge/React-6C63B5?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-6C63B5?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6C63B5?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-6C63B5?style=flat-square&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-6C63B5?style=flat-square&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6C63B5?style=flat-square&logo=springboot&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-6C63B5?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Databases & Storage**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-367C87?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-367C87?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-367C87?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-367C87?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-367C87?style=flat-square&logo=sqlite&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-367C87?style=flat-square&logo=qdrant&logoColor=white)
+
+**AI & ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-A56646?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-A56646?style=flat-square&logo=tensorflow&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-A56646?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-A56646?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-52746B?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-52746B?style=flat-square&logo=docker&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-52746B?style=flat-square&logo=gitlab&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-52746B?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-52746B?style=flat-square&logo=cloudflare&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-52746B?style=flat-square&logo=grafana&logoColor=white)
+![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-52746B?style=flat-square&logo=uptimekuma&logoColor=white)
+
+**Development Tools**
+
+![Git](https://img.shields.io/badge/Git-747884?style=flat-square&logo=git&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-747884?style=flat-square&logo=sonarqubeforide&logoColor=white)
+![Fortify](https://img.shields.io/badge/Fortify-747884?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-747884?style=flat-square&logo=jira&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-747884?style=flat-square&logo=asana&logoColor=white)
