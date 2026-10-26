@@ -21,6 +21,7 @@ Outside work, I'm building **Brain**, a persistent memory system for AI agents, 
 - **[AMD GAIA](https://github.com/amd/gaia)** — Fixed chat-agent cache eviction to preserve recently used sessions, with regression tests. [Merged PR #5741](https://github.com/amd/gaia/pull/5741).
 - **[AMD GAIA](https://github.com/amd/gaia)** — Preserved chat sessions when saving fails, keeping `/quit` and `/reset` recoverable and surfacing attachment-save failures. [Merged PR #5862](https://github.com/amd/gaia/pull/5862).
 - **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** — Open proposals for [tool-resolution diagnostics (#48548)](https://github.com/NousResearch/hermes-agent/pull/48548) and [Kanban review workflow safeguards (#44547)](https://github.com/NousResearch/hermes-agent/pull/44547). Not yet merged.
+- **[FastMCP](https://github.com/PrefectHQ/fastmcp)** — Proposed a fix for generated CLIs failing on CRLF parameter descriptions, with regression coverage. [Open PR #6075](https://github.com/PrefectHQ/fastmcp/pull/6075). Not yet merged.
 
 ### What I'm working on
 
